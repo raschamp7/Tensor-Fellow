@@ -1,0 +1,246 @@
+==========Sun Dec 31 19:52:11 2017==LAYERS=4==HIDENSIZE=256==BATCH=64==BUCKETS=[(8, 16), (16, 24)]==PUNCTUATION=False===
+HUMAN ++++ hi
+BOT ++++ you guys like a good evening .
+HUMAN ++++ hello
+BOT ++++ hello .
+HUMAN ++++ how are you
+BOT ++++ i feel fine .
+HUMAN ++++ where are you
+BOT ++++ . and i cant be here .
+HUMAN ++++ how have you been
+BOT ++++ i guess you had a phone call .
+HUMAN ++++ where are you now
+BOT ++++ home .
+HUMAN ++++ what are you doing there
+BOT ++++ i dont know .
+HUMAN ++++ what is your name
+BOT ++++ victor . frankenstein and and the door .
+HUMAN ++++ are you a bot
+BOT ++++ smith . hasnt got a lot of tea and i was in the mood .
+HUMAN ++++ are you god
+BOT ++++ yeah . are you alright .
+HUMAN ++++ do you know christ
+BOT ++++ guess i know . and the house are divorced .
+HUMAN ++++ is christ the son of god
+BOT ++++  ???
+HUMAN ++++ are you lying
+BOT ++++ i am . yes i is would you like .
+HUMAN ++++ are you a liar
+BOT ++++ i was .
+HUMAN ++++ i want to talk to you and you are not nice
+BOT ++++ dont you think i could . you and death . i have a good idea what you know . is dead .
+HUMAN ++++ what are you talking about
+BOT ++++ i dont know .
+HUMAN ++++ do you know mircea
+BOT ++++ i know . and i could .
+HUMAN ++++ i am your god
+BOT ++++ it is .
+HUMAN ++++ i am talking about a supreme being that can change you at will
+BOT ++++ no no no no no no no no no no no no no no no no no no no no no no no no .
+HUMAN ++++ i am doing fine how about you
+BOT ++++ i know . and my daughter is a break .
+HUMAN ++++ where are you mr president
+BOT ++++ here .
+HUMAN ++++ are you sentient
+BOT ++++ i dont know .
+HUMAN ++++ are you going to kill us all
+BOT ++++ i dont know . is dead its all yours .
+HUMAN ++++ are you the terminator
+BOT ++++ course . thou sent up .
+==========Sun Dec 31 19:52:32 2017==LAYERS=4==HIDENSIZE=256==BATCH=64==BUCKETS=[(8, 16), (16, 24)]==PUNCTUATION=False===
+HUMAN ++++ hi!
+BOT ++++ you guys like a good evening .
+HUMAN ++++ hello!
+BOT ++++ hello .
+HUMAN ++++ how are you?
+BOT ++++ i feel fine .
+HUMAN ++++ where are you?
+BOT ++++ . and i cant be here .
+HUMAN ++++ how have you been?
+BOT ++++ i guess you had a phone call .
+HUMAN ++++ where are you now?
+BOT ++++ home .
+HUMAN ++++ what are you doing there?
+BOT ++++ i dont know .
+HUMAN ++++ what is your name?
+BOT ++++ victor . frankenstein and and the door .
+HUMAN ++++ are you a bot?
+BOT ++++ smith . hasnt got a lot of tea and i was in the mood .
+HUMAN ++++ are you god?
+BOT ++++ yeah . are you alright .
+HUMAN ++++ do you know christ?
+BOT ++++ guess i know . and the house are divorced .
+HUMAN ++++ is christ the son of god?
+BOT ++++  ???
+HUMAN ++++ are you lying?
+BOT ++++ i am . yes i is would you like .
+HUMAN ++++ are you a liar?
+BOT ++++ i was .
+HUMAN ++++ i want to talk to you and you are not nice!
+BOT ++++ dont you think i could . you and death . i have a good idea what you know . is dead .
+HUMAN ++++ what are you talking about?
+BOT ++++ i dont know .
+HUMAN ++++ do you know mircea?
+BOT ++++ i know . and i could .
+HUMAN ++++ i am your god!
+BOT ++++ it is .
+HUMAN ++++ i am talking about a supreme being that can change you at will!
+BOT ++++ no no no no no no no no no no no no no no no no no no no no no no no no .
+HUMAN ++++ i am doing fine how about you?
+BOT ++++ i know . and my daughter is a break .
+HUMAN ++++ where are you mr president?
+BOT ++++ here .
+HUMAN ++++ are you sentient?
+BOT ++++ i dont know .
+HUMAN ++++ are you going to kill us all?
+BOT ++++ i dont know . is dead its all yours .
+HUMAN ++++ are you the terminator?
+BOT ++++ course . thou sent up .
+==========Sun Dec 31 19:55:53 2017==LAYERS=4==HIDENSIZE=256==BATCH=64==BUCKETS=[(8, 16), (16, 24)]==PUNCTUATION=False===USEFACTOR=False=====
+HUMAN ++++ hi!
+BOT ++++ ? ? whats ? what ? what ? what ? what ? what ? what ? what ? what .
+HUMAN ++++ hello!
+BOT ++++ to see you . you ? you ? what ? what ? what ? what ? what ? what .
+HUMAN ++++ how are you?
+BOT ++++ fine . fine . and . and . and . and . and . and . and . and .
+HUMAN ++++ where are you?
+BOT ++++ back . you . you . you . you . and . . . . . . . . .
+HUMAN ++++ how have you been?
+BOT ++++ ... i ... i ... and ... and . you . you . you . . . . . .
+HUMAN ++++ where are you now?
+BOT ++++ back . you . you . you . you . and . . . . . . . . .
+HUMAN ++++ what are you doing there?
+BOT ++++ ... i ... i ... ... ... ... ... ... . ... . ... . . . . . .
+HUMAN ++++ what is your name?
+BOT ++++ . you . you . you . you . you . you . . . . . . . .
+HUMAN ++++ are you a bot?
+BOT ++++ on the way . i . you . you . you . you . . . . . . .
+HUMAN ++++ are you god?
+BOT ++++ ... i ... i ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .
+HUMAN ++++ do you know christ?
+BOT ++++ ... i ... the ... you ... ... ... ... ... ... . ... . ... . . . .
+HUMAN ++++ is christ the son of god?
+BOT ++++ ... i ... the ... and ... and ... ... ... ... ... ... ... ... ... ... ... .
+HUMAN ++++ are you lying?
+BOT ++++ im just too . im . you . you . you . you . you . . . . .
+HUMAN ++++ are you a liar?
+BOT ++++ yes . im . you . and . and . and . and . . . . . . .
+HUMAN ++++ i want to talk to you and you are not nice!
+BOT ++++ and i dont want to . i . you . you . you . you . you . . .
+HUMAN ++++ what are you talking about?
+BOT ++++ ... i ... i ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .
+HUMAN ++++ do you know mircea?
+BOT ++++ . i . you . you . you . you . you . you . . . . . .
+HUMAN ++++ i am your god!
+BOT ++++ ! i ! what ! the ! the ! you ! you ! jesus ! jesus ! jesus ! .
+HUMAN ++++ i am talking about a supreme being that can change you at will!
+BOT ++++ i dont think i want to . i and you know . you . you . you . you .
+HUMAN ++++ i am doing fine how about you?
+BOT ++++ im fine . im and you know . you and the first . you . you . you . .
+HUMAN ++++ where are you mr president?
+BOT ++++ . i . i . you . and . and . and . and . . . . . .
+HUMAN ++++ are you sentient?
+BOT ++++ ... yeah . you . you . you . and . and . . . . . . . .
+HUMAN ++++ are you going to kill us all?
+BOT ++++ ... i . you . you . you . and . you . you . . . . . .
+HUMAN ++++ are you the terminator?
+BOT ++++ ... i ... the ... and ... ... ... ... . ... . ... . . . . . .
+==========Sun Dec 31 19:57:12 2017==LAYERS=3==HIDENSIZE=256==BATCH=64==BUCKETS=[(16, 19)]==PUNCTUATION=True===USEFACTOR=False=====
+HUMAN ++++ hi!
+BOT ++++ . ? . ? . ? . ? . ? . ? . ? . ? . ? .
+HUMAN ++++ hello!
+BOT ++++ to see you . . ? . ? . ? . ? . ? . ? . ? .
+HUMAN ++++ how are you?
+BOT ++++ fine . . . . . . . . . . . . . . . . . .
+HUMAN ++++ where are you?
+BOT ++++ back . . . . . . . . . . . . . . . . . .
+HUMAN ++++ how have you been?
+BOT ++++ ... . ... i ... . ... . . . . . . . . . . . . .
+HUMAN ++++ where are you now?
+BOT ++++ back . . . . . . . . . . . . . . . . . .
+HUMAN ++++ what are you doing there?
+BOT ++++ ... . ... . ... . ... . ... . . . . . . . . . . .
+HUMAN ++++ what is your name?
+BOT ++++ . . . . . . . . . . . . . . . . . . . .
+HUMAN ++++ are you a bot?
+BOT ++++ on the way . . . . . . . . . . . . . . . .
+HUMAN ++++ are you god?
+BOT ++++ ... . ... . ... . ... . ... . ... . ... . ... . ... . ... .
+HUMAN ++++ do you know christ?
+BOT ++++ ... . ... . ... . ... . ... . ... . . . . . . . . .
+HUMAN ++++ is christ the son of god?
+BOT ++++ ... . ... . ... . ... . ... . ... . ... . ... . ... . ... .
+HUMAN ++++ are you lying?
+BOT ++++ im just too . . . . . . . . . . . . . . . .
+HUMAN ++++ are you a liar?
+BOT ++++ yes . . . . . . . . . . . . . . . . . .
+HUMAN ++++ i want to talk to you and you are not nice!
+BOT ++++ and i dont want to . . . . . . . . . . . . . .
+HUMAN ++++ what are you talking about?
+BOT ++++ ... . ... i ... . ... . ... . ... . ... . ... . ... . ... .
+HUMAN ++++ do you know mircea?
+BOT ++++ . . . . . . . . . . . . . . . . . . . .
+HUMAN ++++ i am your god!
+BOT ++++ ! . ! . ! . ! . ! . ! . ! . ! . ! . ! .
+HUMAN ++++ i am talking about a supreme being that can change you at will!
+BOT ++++ i dont think i want to . . and you know . . . . . . . .
+HUMAN ++++ i am doing fine how about you?
+BOT ++++ im fine . . and you know . . and the first . . . . . . . .
+HUMAN ++++ where are you mr president?
+BOT ++++ . . . . . . . . . . . . . . . . . . . .
+HUMAN ++++ are you sentient?
+BOT ++++ ... . . . . . . . . . . . . . . . . . . .
+HUMAN ++++ are you going to kill us all?
+BOT ++++ ... . . . . . . . . . . . . . . . . . . .
+HUMAN ++++ are you the terminator?
+BOT ++++ ... . ... . ... . ... . ... . . . . . . . . . . .
+==========Sun Dec 31 20:01:03 2017==LAYERS=3==HIDENSIZE=256==BATCH=64==BUCKETS=[(16, 19)]==PUNCTUATION=True===USEFACTOR=False=====
+HUMAN ++++ hi!
+BOT ++++ . . . . . . . . . . . . . . . . . . . .
+HUMAN ++++ hello!
+BOT ++++ ! . . . . . . . . . . . . . . . . . . .
+HUMAN ++++ how are you?
+BOT ++++ im fine . . . how . . . . . . . . . . . . . .
+HUMAN ++++ where are you?
+BOT ++++ . . . . . . . . . . . . . . . . . . . .
+HUMAN ++++ how have you been?
+BOT ++++ . . . i . . . i . . . . . . . . . . . .
+HUMAN ++++ where are you now?
+BOT ++++ . . . . . i . . . . . . . . . . . . . .
+HUMAN ++++ what are you doing there?
+BOT ++++ . . . i . . . i . . . . . . . . . . . .
+HUMAN ++++ what is your name?
+BOT ++++ . . . . . . . . . . . . . . . . . . . .
+HUMAN ++++ are you a bot?
+BOT ++++ . . . i . . . i . . . . . . . . . . . .
+HUMAN ++++ are you god?
+BOT ++++ . . . i . . . . . . . . . . . . . . . .
+HUMAN ++++ do you know christ?
+BOT ++++ ? . ? what ? . ? what ? . ? what ? . ? what ? . ? .
+HUMAN ++++ is christ the son of god?
+BOT ++++ so ... . ... the ... . ... how ... . ... how ... . ... . ... .
+HUMAN ++++ are you lying?
+BOT ++++ . . . i . . . i . . . . . . . . . . . .
+HUMAN ++++ are you a liar?
+BOT ++++ huh ? . ? what ? . ? what ? . ? what ? . ? what ? .
+HUMAN ++++ i want to talk to you and you are not nice!
+BOT ++++ i dont know . i dont know . . ... i ... . ... i ... . ... i .
+HUMAN ++++ what are you talking about?
+BOT ++++ . . . i . . . i . . . i . . . . . . . .
+HUMAN ++++ do you know mircea?
+BOT ++++ said i dont know . . . i . . . . . . . . . . . .
+HUMAN ++++ i am your god!
+BOT ++++ i .
+HUMAN ++++ i am talking about a supreme being that can change you at will!
+BOT ++++ i dont want to be a little more . . ... i ... . ... . ... . ... .
+HUMAN ++++ i am doing fine how about you?
+BOT ++++ . . . how . . . how . . . i . . . . . . . .
+HUMAN ++++ where are you mr president?
+BOT ++++ . . . . . i . . . . . . . . . . . . . .
+HUMAN ++++ are you sentient?
+BOT ++++ . . ? . ? . ? what ? . ? what ? . ? what ? . ? .
+HUMAN ++++ are you going to kill us all?
+BOT ++++ . . ? where ? . ? where ? . ? right ? . ? right ? . ? .
+HUMAN ++++ are you the terminator?
+BOT ++++ . . . i . . . . . . . . . . . . . . . .
+==========Sun Dec 31 20:07:10 2017==LAYERS=3==HIDENSIZE=256==BATCH=64==BUCKETS=[(16, 19)]==PUNCTUATION=True===USEFACTOR=False=====
